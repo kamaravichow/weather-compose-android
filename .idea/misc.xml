@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../layout/compose-model-1654242390412.xml" value="0.2626689189189189" />
+        <entry key="../../../../../../../layout/compose-model-1654242992922.xml" value="0.165" />
+        <entry key="../../../../../../../layout/compose-model-1654243310800.xml" value="0.1" />
+        <entry key="../../../../../../../layout/compose-model-1654243319195.xml" value="0.335" />
+        <entry key="../../../../../../../layout/compose-model-1654243433665.xml" value="0.26182432432432434" />
+        <entry key="../../../../../../../layout/compose-model-1654243492760.xml" value="0.26182432432432434" />
+        <entry key="../../../../../../../layout/compose-model-1654243543097.xml" value="0.26182432432432434" />
+        <entry key="../../../../../../../layout/compose-model-1654243639176.xml" value="0.8256658595641646" />
+        <entry key="../../../../../../../layout/compose-model-1654243689445.xml" value="0.2626689189189189" />
+        <entry key="app/src/main/res/drawable/ic_cloud.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_thunder.xml" value="0.1475" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
